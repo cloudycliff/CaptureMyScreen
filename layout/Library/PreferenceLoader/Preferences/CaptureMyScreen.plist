@@ -1,0 +1,19 @@
+entry = {
+	cell = PSLinkCell;
+	icon = "CaptureMyScreen.png";
+	label = "CaptureMyScreen";
+};
+title = "CaptureMyScreen";
+items = (
+	{
+		cell = PSLinkCell;
+		bundle = LibActivator;
+		isController = 1;
+		label = "Activation Methods";
+		activatorListener = "com.cloudycliff.capturemyscreen";
+	},
+	{
+		cell = PSGroupCell;
+		footerText = "Copyright (c) Cliff";
+	},
+);

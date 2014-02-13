@@ -1,0 +1,9 @@
+Package: com.yourcompany.capturemyscreen
+Name: CaptureMyScreen
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: TF
+Author: TF
+Section: Tweaks

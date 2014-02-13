@@ -1,0 +1,5 @@
+{
+    title = "CaptureMyScreen";
+    description = "CaptureMyScreen";
+    "compatible-modes" = ("springboard", "application", "lockscreen");
+}
