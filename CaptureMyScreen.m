@@ -1,8 +1,4 @@
 #import <IOSurface/IOSurface.h>
-#import <IOSurface/IOSurfaceAPI.h>
-#import <IOSurface/IOSurfaceAccelerator.h>
-#import <IOMobileFrameBuffer.h>
-#import <CoreSurface/CoreSurface.h>
 
 #import "CaptureMyScreen.h"
 
